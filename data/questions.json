@@ -99,6 +99,39 @@
       "createdBy": "mentor",
       "createdAt": "2026-06-25T20:49:32.242Z",
       "updatedAt": "2026-06-25T20:49:32.242Z"
+    },
+    {
+      "id": "284d94a0-358d-49e6-8c63-ccb0328372fb",
+      "type": "MCQ",
+      "subject": "QA",
+      "topic": "Arithmetic",
+      "difficulty": "Medium",
+      "questionText": ";s",
+      "options": [
+        {
+          "id": "A",
+          "text": "q"
+        },
+        {
+          "id": "B",
+          "text": "w"
+        },
+        {
+          "id": "C",
+          "text": "r"
+        },
+        {
+          "id": "D",
+          "text": "e"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "",
+      "tags": [],
+      "estimatedSolveTimeSeconds": 120,
+      "createdBy": "mentor",
+      "createdAt": "2026-06-25T20:50:49.683Z",
+      "updatedAt": "2026-06-25T20:50:49.683Z"
     }
   ]
 }
