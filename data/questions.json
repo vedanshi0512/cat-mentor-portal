@@ -33,6 +33,39 @@
       "createdBy": "mentor",
       "createdAt": "2026-06-25T20:45:17.994Z",
       "updatedAt": "2026-06-25T20:45:17.994Z"
+    },
+    {
+      "id": "a443c4ec-81b0-4759-952a-39f0051be594",
+      "type": "MCQ",
+      "subject": "QA",
+      "topic": "Arithmetic",
+      "difficulty": "Medium",
+      "questionText": "bcksa",
+      "options": [
+        {
+          "id": "A",
+          "text": "nxla"
+        },
+        {
+          "id": "B",
+          "text": "nlaxcorrect"
+        },
+        {
+          "id": "C",
+          "text": "nxla"
+        },
+        {
+          "id": "D",
+          "text": "jownx"
+        }
+      ],
+      "correctOptionId": "B",
+      "explanation": "",
+      "tags": [],
+      "estimatedSolveTimeSeconds": 120,
+      "createdBy": "mentor",
+      "createdAt": "2026-06-25T20:45:38.651Z",
+      "updatedAt": "2026-06-25T20:45:38.651Z"
     }
   ]
 }
