@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "f6091467-7c6a-4899-8c92-7ce4d70ef7d7",
+      "type": "MCQ",
+      "subject": "QA",
+      "topic": "Arithmetic",
+      "difficulty": "Medium",
+      "questionText": "wfdcs",
+      "options": [
+        {
+          "id": "A",
+          "text": "csacorrect"
+        },
+        {
+          "id": "B",
+          "text": "csaa"
+        },
+        {
+          "id": "C",
+          "text": "csaa"
+        },
+        {
+          "id": "D",
+          "text": "csacdas"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "",
+      "tags": [],
+      "estimatedSolveTimeSeconds": 120,
+      "createdBy": "mentor",
+      "createdAt": "2026-06-25T20:45:17.994Z",
+      "updatedAt": "2026-06-25T20:45:17.994Z"
+    }
+  ]
+}
