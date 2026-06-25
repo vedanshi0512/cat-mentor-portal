@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "attempts": [
+    {
+      "id": "ebaf8069-d591-45f1-a765-b967e3dde574",
+      "testId": "59bb8fb7-6654-42a8-b0b5-bdaf19227091",
+      "studentId": "vv",
+      "status": "submitted",
+      "startedAt": "2026-06-25T20:48:06.603Z",
+      "submittedAt": "2026-06-25T20:48:17.902Z",
+      "responses": [
+        {
+          "questionId": "f6091467-7c6a-4899-8c92-7ce4d70ef7d7",
+          "state": "answered",
+          "timeSpentSeconds": 3,
+          "firstVisitedAt": "2026-06-25T20:48:06.607Z",
+          "selectedOptionId": "A",
+          "lastModifiedAt": "2026-06-25T20:48:08.858Z",
+          "isCorrect": true
+        },
+        {
+          "questionId": "a443c4ec-81b0-4759-952a-39f0051be594",
+          "state": "answered",
+          "timeSpentSeconds": 6,
+          "firstVisitedAt": "2026-06-25T20:48:09.973Z",
+          "selectedOptionId": "D",
+          "lastModifiedAt": "2026-06-25T20:48:12.776Z",
+          "isCorrect": false
+        }
+      ],
+      "sectionTimings": [
+        {
+          "sectionId": "1056cff0-1c5b-4f65-b24e-b46de68e9cb2",
+          "timeRemainingSeconds": 2391
+        },
+        {
+          "sectionId": "fda69857-75d4-4f0d-866f-23135c388a09",
+          "timeRemainingSeconds": 2400
+        }
+      ],
+      "currentSectionId": "1056cff0-1c5b-4f65-b24e-b46de68e9cb2",
+      "totalTimeSpentSeconds": 9,
+      "score": 2,
+      "maxScore": 6,
+      "accuracy": 0.5,
+      "attemptRate": 1,
+      "subjectBreakdown": {
+        "QA": {
+          "score": 2,
+          "accuracy": 0.5,
+          "attempted": 2,
+          "total": 2
+        }
+      }
+    }
+  ]
+}
