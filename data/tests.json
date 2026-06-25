@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "tests": [
+    {
+      "id": "59bb8fb7-6654-42a8-b0b5-bdaf19227091",
+      "name": "qa",
+      "type": "Full Mock",
+      "instructions": "Read each question carefully. Use Save & Next to record your answer and move on. You can mark questions for review and revisit them before submitting.",
+      "sections": [
+        {
+          "id": "1056cff0-1c5b-4f65-b24e-b46de68e9cb2",
+          "name": "VARC",
+          "subject": "VARC",
+          "questionIds": [
+            "f6091467-7c6a-4899-8c92-7ce4d70ef7d7",
+            "a443c4ec-81b0-4759-952a-39f0051be594"
+          ],
+          "durationSeconds": 2400,
+          "isLocked": true
+        },
+        {
+          "id": "fda69857-75d4-4f0d-866f-23135c388a09",
+          "name": "QA",
+          "subject": "QA",
+          "questionIds": [],
+          "durationSeconds": 2400,
+          "isLocked": true
+        }
+      ],
+      "totalDurationSeconds": 4800,
+      "availableFrom": "2026-06-25T20:44:00.000Z",
+      "availableUntil": "2026-07-06T20:44:00.000Z",
+      "maxAttempts": 4,
+      "createdBy": "mentor",
+      "createdAt": "2026-06-25T20:46:39.809Z",
+      "updatedAt": "2026-06-25T20:46:39.809Z",
+      "isPublished": false
+    }
+  ]
+}
