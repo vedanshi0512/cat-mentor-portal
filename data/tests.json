@@ -28,13 +28,13 @@
         }
       ],
       "totalDurationSeconds": 4800,
-      "availableFrom": "2026-06-25T20:44:00.000Z",
-      "availableUntil": "2026-07-06T20:44:00.000Z",
+      "availableFrom": "2026-06-25T15:14:00.000Z",
+      "availableUntil": "2026-07-06T15:14:00.000Z",
       "maxAttempts": 4,
       "createdBy": "mentor",
       "createdAt": "2026-06-25T20:46:39.809Z",
-      "updatedAt": "2026-06-25T20:46:39.809Z",
-      "isPublished": false
+      "updatedAt": "2026-06-25T20:47:09.120Z",
+      "isPublished": true
     }
   ]
 }
