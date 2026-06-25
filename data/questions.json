@@ -66,6 +66,39 @@
       "createdBy": "mentor",
       "createdAt": "2026-06-25T20:45:38.651Z",
       "updatedAt": "2026-06-25T20:45:38.651Z"
+    },
+    {
+      "id": "a7084f3c-e168-436d-be4a-27002b4926bf",
+      "type": "MCQ",
+      "subject": "QA",
+      "topic": "algebra",
+      "difficulty": "Medium",
+      "questionText": "hihihihih",
+      "options": [
+        {
+          "id": "A",
+          "text": "a"
+        },
+        {
+          "id": "B",
+          "text": "c"
+        },
+        {
+          "id": "C",
+          "text": "s"
+        },
+        {
+          "id": "D",
+          "text": "w"
+        }
+      ],
+      "correctOptionId": "A",
+      "explanation": "",
+      "tags": [],
+      "estimatedSolveTimeSeconds": 120,
+      "createdBy": "mentor",
+      "createdAt": "2026-06-25T20:49:32.242Z",
+      "updatedAt": "2026-06-25T20:49:32.242Z"
     }
   ]
 }
