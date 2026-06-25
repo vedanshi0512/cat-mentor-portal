@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "students": [
+    {
+      "id": "vv",
+      "name": "vv",
+      "joinedAt": "2026-06-25T20:46:50.194Z",
+      "isActive": true
+    }
+  ],
+  "mentor": {
+    "id": "mentor",
+    "name": "Mentor"
+  }
+}
